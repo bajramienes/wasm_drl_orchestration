@@ -69,7 +69,6 @@ Then update `agents/external_config.yaml` with the command (or import path) used
 
 ## Reproducibility
 - All randomness is seeded per run and per agent/phase.
-- Workload traces are pre-generated and stored under `traces/` and replayed identically for all agents.
 
 ## Author
 - Enes Bajrami
